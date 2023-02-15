@@ -1,0 +1,157 @@
+body{
+    background-color: floralwhite;
+}
+#tuch{
+    background-color: coral;
+    height: 270px;
+    width:600px;
+    position: absolute;
+    top:300px;
+    left:350px;
+    transform: rotate(-15deg) skew(20deg, 2deg);
+}
+#flaschenboden{
+     background-color: aliceblue;
+    border-radius:50%;
+    height:40px;
+    width:110px;
+    position:absolute;
+    top:370px;
+    left:685px;
+    opacity:0.85;
+}
+#stil{
+    background-color:green;
+    height:200px;
+    width:10px;
+    position: absolute;
+    top:-130px;
+    left:750px;
+    transform:rotate(20deg) skew(10deg);
+}
+
+#bluete{
+    background-color: yellow;
+    position: absolute;
+    top:-10px;
+    left:800px;
+    width:40px;
+    height:20px;
+    border-radius: 50%;
+    
+}
+
+#flasche{
+    background-color: aliceblue;
+    height:190px;
+    width:110px;
+    position:absolute;
+    top:200px;
+    left:685px;
+    opacity:0.7;
+    border-radius:5px;
+}
+#flaschenhals{
+     
+    height:90px;
+    width:60px;
+    position:absolute;
+    top:-50px;
+    left:685px;
+    opacity:0.7;
+    border-radius: 10px;
+    border-bottom: 180px solid aliceblue;
+      border-left: 25px solid transparent;
+      border-right: 25px solid transparent;
+}
+
+#metallhinten{
+    background-color: darkgrey;
+    height:120px;
+    width:250px;
+    position:absolute;
+    top:360px;
+    left:240px;
+    transform:rotate(-30deg) skew(-30deg);
+    border-radius:10px;
+}
+
+#buchhintengelb{
+    background-color: burlywood;
+    position:absolute;
+    top:430px;
+    left:595px;
+    height:35px;
+    width:110px;
+    transform:rotate(12deg)skew(5deg);
+}
+#buchhintenpink{
+    background-color:deeppink;
+    position:absolute;
+     top:395px;
+    left:600px;
+    height:35px;
+    width:110px;
+    transform:rotate(12deg)skew(5deg);
+}
+
+#metallvorne{
+    background-color: lightgray;
+    height:130px;
+    width:450px;
+    position:absolute;
+    top:440px;
+    left:250px;
+    transform:rotate(5deg) skew(5deg);
+    border-radius: 10px;
+}
+
+#buchvornegelb{
+    background-color: lightyellow;
+    position:absolute;
+    transform:rotate(5deg) skew(-5deg);
+    top:410px;
+    left:470px;
+    height:35px;
+    width:130px;
+}
+
+#buchvornepink{
+    background-color: pink;
+    position:absolute;
+    transform:rotate(5deg) skew(-5deg);
+    top:375px;
+    left:475px;
+    height:35px;
+    width:130px;
+}
+#farbboden{
+    background-color:red;
+    height:20px;
+    width:100px;
+    border-radius:50%;
+     position:absolute;
+    top:420px;
+    left:815px;
+}
+
+#farbe{
+     border-top: 160px solid red;
+      border-left: 15px solid transparent;
+      border-right: 15px solid transparent;
+      height: 0;
+      width: 100px;
+    position:absolute;
+    top:270px;
+    left:800px;
+}
+
+#farbdeckel{
+    background-color:firebrick;
+    height:20px;
+    width:130px;
+    border-radius:50%;
+     position:absolute;
+    top:260px;
+    left:800px;
+}
